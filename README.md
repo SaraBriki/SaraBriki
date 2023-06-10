@@ -1,4 +1,4 @@
-### Hello curious visitor 👋 You are most welcome here! 🥳
+### <div align="center">Hello curious visitor 👋 You are most welcome here! 🥳</div>
 
 - Let me give introduce myself. My name is Sara Briki (I'm sure you cann tell by now), and I am a 4<sup>th year software engineering student at the National Institute of Applied Sciences and Technology -or, as we call it here ✨INSAT✨-.
   
