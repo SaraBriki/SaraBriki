@@ -2,7 +2,9 @@
 
 - My name is Sara Briki (I'm sure you can tell by now), and I am a 5<sup>th</sup> year software engineering student at the National Institute of Applied Sciences and Technology.
   
-- My GitHub profile does lack some organization. I'll make it tidier once I finish this piece of code. You can nonetheless find some of my academic projects and lab tasks. Be my guest :)
+- My GitHub profile does lack some organization. I'll make it tidier once I finish this piece of code...
+
+- You can nonetheless find some of my academic projects and lab tasks. Be my guest :)
 
 Happy visit !
   
