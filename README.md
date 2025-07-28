@@ -1,13 +1,4 @@
-### <div align="center">Hello</div>
-
-- My name is Sara Briki (I'm sure you can tell by now), and I am a software engineer freshly graduated from the National Institute of Applied Sciences and Technology (INSAT).
-  
-- My GitHub profile does lack some organization. I'll make it tidier once I finish this piece of code...
-
-- You can nonetheless find some of my academic projects and lab tasks. Be my guest :)
-
-Happy visit !
-  
+Hello, I'm Sara 👋
 <!--
 **SaraBriki/SaraBriki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
