@@ -1,4 +1,6 @@
 Hello, I'm Sara 👋
+
+I work at Odoo :D
 <!--
 **SaraBriki/SaraBriki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
